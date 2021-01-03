@@ -1,0 +1,89 @@
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\bin\Debug\project.exe.config
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\bin\Debug\project.exe
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\bin\Debug\project.pdb
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.f_cust.resources
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.Form1.resources
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.f_mord.resources
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.Properties.Resources.resources
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.exe
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.pdb
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.dion.resources
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.fatorh.resources
+D:\الجامعه\المستوى الثالث\تطبيقات c#\project\project\obj\Debug\project.asnaf.resources
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe.config
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.exe
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.pdb
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\bin\Debug\project.pdb
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.asnaf.resources
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.dion.resources
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.fatorh.resources
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_cust.resources
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Form1.resources
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_mord.resources
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\ابراهيم\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.search.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe.config
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.exe
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.pdb
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\bin\Debug\project.pdb
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.asnaf.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.dion.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.fatorh.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_cust.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Form1.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_mord.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Properties.Resources.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.search.resources
+D:\Level_3\الترم الاول\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe.config
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.exe
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.pdb
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\bin\Debug\project.pdb
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.asnaf.resources
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.dion.resources
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.fatorh.resources
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_cust.resources
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Form1.resources
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_mord.resources
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Properties.Resources.resources
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.search.resources
+D:\برمجية\تطبيقات c#\مشاريعي\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe.config
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.exe
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.pdb
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\bin\Debug\project.pdb
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.asnaf.resources
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.dion.resources
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.fatorh.resources
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_cust.resources
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Form1.resources
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_mord.resources
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.search.resources
+C:\Users\Dhiaa\Desktop\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe.config
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.exe
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.pdb
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\bin\Debug\project.exe
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\bin\Debug\project.pdb
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.asnaf.resources
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.dion.resources
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.fatorh.resources
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_cust.resources
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Form1.resources
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.f_mord.resources
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.search.resources
+C:\Users\Dhiaa\Desktop\prodect\اخر تعديل مشروع المشتريات\project\obj\Debug\project.csproj.GenerateResource.Cache
